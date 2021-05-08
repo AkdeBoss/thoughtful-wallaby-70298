@@ -82,7 +82,7 @@ sections:
           easier
       - author: Manjunath
         avatar: images/manjunath.webp
-        avatar_alt: Parsley Montana's photo
+        avatar_alt: Manju's truck
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
