@@ -28,7 +28,7 @@ sections:
         options:
           - Long term contract
           - Short term contract
-          - 'On-demand '
+          - On-demand contract
       - input_type: textarea
         name: message
         label: Message
