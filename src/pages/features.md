@@ -41,7 +41,7 @@ sections:
     title: Give us a call..
     subtitle: We'd love to hear from you.
     actions:
-      - label: Get Started
+      - label: Call
         url: '#'
         style: secondary
 seo:
