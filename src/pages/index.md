@@ -71,9 +71,7 @@ sections:
     type: section_reviews
     background: gray
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: Here is what our stakeholders has
     reviews:
       - author: Manju
         avatar: images/tata_ace.png
