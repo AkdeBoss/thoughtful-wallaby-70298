@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Long term contract
-          - Sponsorship
+          - Short term contract
           - Other
       - input_type: textarea
         name: message
