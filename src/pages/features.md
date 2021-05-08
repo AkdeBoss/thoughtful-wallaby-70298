@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: What we offer?
+    title: Looking for a transporter?
     content: >
       We offer a wide range of services and are flexible enough to work with any
       existing fleets you have.  We have proved time and again that our
