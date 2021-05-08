@@ -41,10 +41,14 @@ sections:
       - title: OEM Logistic solutions
         image: images/royal-sloth.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We’ve got years of experience with executing OEM logistic services. We
+          know you want to deliver the cargo safe and on time and we are the
+          people to guarantee just that. We take pride in all of our vehicles
+          and work hard to take you to any location no matter how bad the
+          traffic may be. We invest the necessary time in communication and
+          preparation to guarantee safe delivery. Feel free to call for more
+          information or to make a reservation.
         actions:
           - label: Learn More
             url: /features
