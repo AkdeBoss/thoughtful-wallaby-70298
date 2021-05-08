@@ -104,7 +104,8 @@ sections:
         url: '<a href="tel:+919845377424"/>'
 seo:
   title: Karthikeyan Transport
-  description: The preview of the Azimuth theme
+  description: |
+    Transport Partner,
   extra:
     - name: 'og:type'
       value: website
