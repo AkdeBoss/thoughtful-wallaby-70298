@@ -39,7 +39,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: OEM Logistic solutions
-        image: images/frane (1).png
+        image: images/frane.png
         image_alt: App users welcoming a new member
         content: >
           We’ve got years of experience with executing OEM logistic services. We
