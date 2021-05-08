@@ -26,7 +26,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Long term
+          - Long term contract
           - Sponsorship
           - Other
       - input_type: textarea
