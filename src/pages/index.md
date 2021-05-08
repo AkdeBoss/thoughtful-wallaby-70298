@@ -91,8 +91,9 @@ sections:
         avatar: images/mani.webp
         avatar_alt: Mani's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          SKT is my first company, i have been working as an assistant to
+          driver, I also get training on the job, i get to learn different
+          routes and truck maintenance, its been really good here.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
