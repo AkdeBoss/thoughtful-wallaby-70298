@@ -89,7 +89,7 @@ sections:
           someday, with SKT i think the dream can be achieved faster.
       - author: Mani
         avatar: images/mani.webp
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Mani's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
