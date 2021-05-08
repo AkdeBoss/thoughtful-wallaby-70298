@@ -38,7 +38,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: OEM Logistic solutions
         image: images/royal-sloth.png
         image_alt: App users welcoming a new member
         content: >-
