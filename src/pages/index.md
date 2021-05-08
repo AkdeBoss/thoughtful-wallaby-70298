@@ -73,7 +73,7 @@ sections:
     title: Testimonials
     subtitle: Here is what our stakeholders say..
     reviews:
-      - author: Manju
+      - author: Muni Raju
         avatar: images/tata_ace.png
         avatar_alt: Eric Widget's photo
         content: >-
