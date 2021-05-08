@@ -30,6 +30,7 @@ sections:
           - Short term contract
           - On-demand contract
           - Other
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
