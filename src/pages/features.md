@@ -39,7 +39,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Give us a call..
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We'd love to hear from you.
     actions:
       - label: Get Started
         url: '#'
