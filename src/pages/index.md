@@ -101,7 +101,7 @@ sections:
     actions:
       - label: Call.
         style: link
-        url: 'tel:+919845377424'
+        url: '<a href="tel:123-456-7890">123-456-7890</a>tel:+919845377424'
   - section_id: recent-posts
     type: section_posts
     background: gray
