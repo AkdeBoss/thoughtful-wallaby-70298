@@ -87,7 +87,7 @@ sections:
           I have been driving since last 8 years, SKT is a very friendly
           company, incentives are very good, i would like to own a truck
           someday, with SKT i think the dream can be achieved faster.
-      - author: Jonquil Von Haggerston
+      - author: Mani
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
