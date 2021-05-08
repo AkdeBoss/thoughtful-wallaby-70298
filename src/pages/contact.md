@@ -4,7 +4,7 @@ sections:
   - section_id: contact_us
     type: section_contact
     background: gray
-    title: Contact
+    title: 'Have a '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
