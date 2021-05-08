@@ -100,7 +100,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Call.
-        url: 'tel:9845377424'
+        url: 'tel:+919845377424'
         style: primary
   - section_id: recent-posts
     type: section_posts
