@@ -11,7 +11,7 @@ sections:
           Yes, indeed. We are eager to serve you, feel free to contact us on
           +919845377424
         question: Can I contact through Whatsapp?
-      - question: Aliquam eget purus ante?
+      - question: Do you have smaller trucks?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
