@@ -1,7 +1,7 @@
 ---
 title: All About Us
 subtitle: The Transport Service You Need
-image: images/about.jpg
+image: images/all_trucks.webp
 image_alt: Team members in a conference room
 seo:
   title: About Us
