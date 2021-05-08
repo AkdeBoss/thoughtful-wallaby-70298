@@ -29,6 +29,7 @@ sections:
           - Long term contract
           - Short term contract
           - On-demand contract
+          - lorem-ipsum
         is_required: true
       - input_type: textarea
         name: message
