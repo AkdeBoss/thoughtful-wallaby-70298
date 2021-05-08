@@ -71,7 +71,7 @@ sections:
     type: section_reviews
     background: gray
     title: Testimonials
-    subtitle: Here is what our stakeholders has
+    subtitle: Here is what our stakeholders say..
     reviews:
       - author: Manju
         avatar: images/tata_ace.png
