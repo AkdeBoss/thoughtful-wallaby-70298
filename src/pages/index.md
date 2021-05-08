@@ -75,7 +75,7 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
     reviews:
-      - author: Eric Widget
+      - author: Manju
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
