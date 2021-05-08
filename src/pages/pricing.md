@@ -7,8 +7,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: Did not find what you looking for? contact us directly.
     faq_items:
-      - question: I
-        answer: >-
+      - answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
           mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
