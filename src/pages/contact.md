@@ -5,10 +5,12 @@ sections:
     type: section_contact
     background: gray
     title: Have a query?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      We offer a dedicated fleet at competitive pricing for your long-term
+      business needs. transparent process and digital integration make us one of
+      the strongest contenders in your logistical needs, we work with you to
+      ensure we deliver the best of the results by constantly learning and
+      upgrading our systems to ensure scalability.
     form_id: contactForm
     form_fields:
       - input_type: text
