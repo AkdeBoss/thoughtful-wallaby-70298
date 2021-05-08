@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: images/maroon-chili.webp
     image_alt: App preview on a phone and tablet
     title: Looking for a transporter?
     content: >
