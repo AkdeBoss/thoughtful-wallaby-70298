@@ -81,7 +81,7 @@ sections:
           I have received good training and timely payment has made my life much
           easier
       - author: Manjunath
-        avatar: images/review2.jpg
+        avatar: images/manjunath.webp
         avatar_alt: Parsley Montana's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
