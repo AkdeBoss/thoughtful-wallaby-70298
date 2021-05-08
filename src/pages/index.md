@@ -99,7 +99,7 @@ sections:
     title: 'Contact us now, give us a call.'
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Call
+      - label: Call.
         url: 'tel:9845377424'
         style: primary
   - section_id: recent-posts
