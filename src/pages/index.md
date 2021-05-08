@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/top_view.png
+    image: images/PikPng.com_indian-truck-png_2936654.png
     image_alt: App preview
     title: Sri Karthikeyan Transport
     content: >-
