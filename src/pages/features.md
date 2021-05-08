@@ -7,21 +7,28 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: What we offer?
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      We offer a wide range of services and are flexible enough to work with any
+      existing fleets you have.  We have proved time and again that our
+      commitment goes beyond the extra mile. We strive to do better every time
+      and deliver state-of-the-art service, equipped with digital utilities, we
+      give a rare insight on operational sensitivities of logistics. Our fleet
+      is constantly growing, carefully selected and well-trained drivers,
+      well-maintained equipment, and attention to detail make us your logical
+      choice.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      we offer these services, contact us directly for a custom proposal.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   Long-term logistic contracts.
+
+      *   Short-term logistic contracts.
+
+      *   On-demand trucks.
+
+
+      we also offer custom/tailored contracts, drop in a message. 
     actions:
       - label: Free Trial
         url: /signup
