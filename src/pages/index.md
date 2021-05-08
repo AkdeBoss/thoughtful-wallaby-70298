@@ -80,7 +80,7 @@ sections:
           SKT has changed my life, i've been driving with SKT from past 2 years,
           I have received good training and timely payment has made my life much
           easier
-      - author: Parsley Montana
+      - author: Manjunath
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
