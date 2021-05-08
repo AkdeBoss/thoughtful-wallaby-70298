@@ -21,10 +21,16 @@ sections:
       - title: Our Commitment to service
         image: images/truck_dock.webp
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We are in a relentless pursuit of excellence, committed to delivering
+          the best service you deserve. A Transport partner you can rely on, S.K
+          Transport is the hard work of two brothers and their fierce will to
+          change the logistics industry and make it better. using Data and
+          analytics we strive to produce better results every time. Our
+          well-trained crew is ready to assist you in every need at any time,
+          Our expert drivers are trained in defensive, economical driving
+          ensuring the best in class cargo safety and a lot less heavy on the
+          pocket.
         actions:
           - label: Learn More
             url: /features
