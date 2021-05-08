@@ -74,7 +74,7 @@ sections:
     subtitle: Here is what our stakeholders say..
     reviews:
       - author: Muni Raju
-        avatar: images/tata_ace.png
+        avatar: images/muniraju.webp
         avatar_alt: Eric Widget's photo
         content: >-
           SKT has changed my life, i've been driving with SKT from past 2 years,
