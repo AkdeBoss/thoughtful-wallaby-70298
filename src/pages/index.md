@@ -6,9 +6,8 @@ sections:
     image: images/PikPng.com_indian-truck-png_2936654.png
     image_alt: App preview
     title: Sri Karthikeyan Transport
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Transport partner you can rely on.
     actions:
       - label: Learn More
         url: /features
