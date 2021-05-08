@@ -84,9 +84,9 @@ sections:
         avatar: images/manjunath.webp
         avatar_alt: Manju's truck
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          I have been driving since last 8 years, SKT is a very friendly
+          company, incentives are very good, i would like to own a truck
+          someday, with SKT i think the dream can be achieved faster.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
