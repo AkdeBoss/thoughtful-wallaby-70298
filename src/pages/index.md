@@ -36,7 +36,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Awesome Feature of Your Services
-        image: images/heavy-duty-trucks-screen-xl.png
+        image: images/royal-sloth.png
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
