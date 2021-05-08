@@ -105,7 +105,7 @@ sections:
 seo:
   title: Karthikeyan Transport
   description: |
-    Transport Partner,
+    As a Transport Partner, we offer a wide range of fleets for your needs.
   extra:
     - name: 'og:type'
       value: website
