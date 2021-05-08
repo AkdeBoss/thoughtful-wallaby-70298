@@ -102,10 +102,6 @@ sections:
       - label: Call.
         style: primary
         url: '<a href="tel:+919845377424"/>'
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
