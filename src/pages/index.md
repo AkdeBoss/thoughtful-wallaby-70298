@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-  - section_id: features
+  - section_id: mission
     type: section_features
     background: gray
     title: Beyond the extra mile
