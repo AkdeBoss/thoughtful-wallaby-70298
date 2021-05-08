@@ -101,6 +101,7 @@ sections:
     actions:
       - label: Call.
         style: link
+        url: 'tel:+919845377424'
   - section_id: recent-posts
     type: section_posts
     background: gray
