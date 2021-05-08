@@ -1,8 +1,6 @@
 ---
 title: All About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: The Transport Service You Need
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
