@@ -103,7 +103,7 @@ sections:
         style: primary
         url: '<a href="tel:+919845377424"/>'
 seo:
-  title: Stackbit Azimuth Theme
+  title: Karthikeyan Transport
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
