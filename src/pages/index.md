@@ -76,7 +76,7 @@ sections:
       semper libero id sodales.
     reviews:
       - author: Manju
-        avatar: images/review1.jpg
+        avatar: images/tata_ace.png
         avatar_alt: Eric Widget's photo
         content: >-
           SKT has changed my life, i've been driving with SKT from past 2 years,
