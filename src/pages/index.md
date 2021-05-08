@@ -75,7 +75,7 @@ sections:
     reviews:
       - author: Muni Raju
         avatar: images/muniraju.webp
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Muni's truck
         content: >-
           SKT has changed my life, i've been driving with SKT from past 2 years,
           I have received good training and timely payment has made my life much
