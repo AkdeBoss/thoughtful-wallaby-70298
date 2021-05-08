@@ -5,7 +5,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: Did not find what you looking for?
+    subtitle: Did not find what you looking for? contact us directly.
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
