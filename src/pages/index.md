@@ -59,10 +59,7 @@ sections:
       - title: On demand Trucks
         image: images/square-spruce.webp
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: "Our fleet includes trucks of all shapes and sizes, catering to your needs. Flat beds, closed containers, Vehicle carriers, up to 16 tonne capacity vehicles are currently\_available, and we are growing every day, adding new members to our fleet constantly, our partner program enables us to collaborate with other fleet owners to enable seamless transportation.\n"
         actions:
           - label: Learn More
             url: /features
