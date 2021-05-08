@@ -7,12 +7,9 @@ sections:
     title: Frequently Asked Questions
     subtitle: Did not find what you looking for? contact us directly.
     faq_items:
-      - answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
+      - answer: >
+          Yes, indeed. We are eager to serve you, feel free to contact us on
+          +919845377424
         question: Can I contact through Whatsapp?
       - question: Aliquam eget purus ante?
         answer: >-
