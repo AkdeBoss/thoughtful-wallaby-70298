@@ -37,7 +37,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-    subtitle: 'Write to us, we''ll get y'
+    subtitle: 'Write to us, we''ll get you the '
 seo:
   title: Contact
   description: This is the contact page
