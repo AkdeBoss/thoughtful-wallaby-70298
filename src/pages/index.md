@@ -18,7 +18,7 @@ sections:
     title: Beyond the extra mile
     subtitle: "At Shree Karthikeyan Transport, we get your cargo from point A to B with safety and with ease.\_We thrive for customer satisfaction working hard to go beyond the extra mile: we’ll work whenever our clients need us, offering worry-free, quality service at a great price. Contact us today, we've got you covered."
     features:
-      - title: The Best Feature of Your Services
+      - title: Our Commitment to service
         image: images/truck_dock.webp
         image_alt: App preview on a phone and tablet
         content: >-
