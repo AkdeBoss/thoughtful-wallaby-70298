@@ -35,7 +35,7 @@ sections:
         style: primary
       - label: Whatsapp
         url: '#'
-        style: secondary
+        style: primary
       - label: Email
         url: 'mailto:raja.n@karthikeyantransport.com'
         style: primary
