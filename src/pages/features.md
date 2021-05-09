@@ -30,7 +30,7 @@ sections:
 
       we also offer custom/tailored contracts, drop in a message. 
     actions:
-      - label: Call us.
+      - label: Call
         url: /signup
         style: primary
       - label: Email Us
