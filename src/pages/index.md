@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/1-2-cargo-truck-png-pic.png
+    image: images/cargo_truck.png
     image_alt: App preview
     title: Sri Karthikeyan Transport
     content: |
