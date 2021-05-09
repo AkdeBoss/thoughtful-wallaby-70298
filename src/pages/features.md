@@ -33,7 +33,7 @@ sections:
       - label: Call
         url: /signup
         style: primary
-      - label: Email Us
+      - label: Whatsapp
         url: '#'
         style: secondary
   - section_id: call-to-action
