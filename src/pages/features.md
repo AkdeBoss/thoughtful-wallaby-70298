@@ -33,7 +33,7 @@ sections:
       - label: Call us.
         url: /signup
         style: primary
-      - label: View Demo
+      - label: Email Us
         url: '#'
         style: secondary
   - section_id: call-to-action
