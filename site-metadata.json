@@ -62,7 +62,8 @@
                         "default_value": "Enter email address",
                         "is_required": true
                     }
-                ]
+                ],
+                "submit_label": "Contact me."
             }
         ],
         "has_nav": true,
