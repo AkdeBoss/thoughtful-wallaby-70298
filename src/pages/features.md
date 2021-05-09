@@ -30,7 +30,7 @@ sections:
 
       we also offer custom/tailored contracts, drop in a message. 
     actions:
-      - label: Free Trial
+      - label: Call us.
         url: /signup
         style: primary
       - label: View Demo
