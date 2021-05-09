@@ -50,7 +50,7 @@
             },
             {
                 "type": "footer_form",
-                "title": "Want to hear from us? drop an  email",
+                "title": "Want to hear from us? drop an email",
                 "content": "We will contact you.\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
