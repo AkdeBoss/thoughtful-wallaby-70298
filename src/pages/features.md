@@ -37,7 +37,7 @@ sections:
         url: '#'
         style: secondary
       - label: Email
-        url: '#'
+        url: 'mailto:'
         style: link
         has_icon: false
         icon: arrow-left
