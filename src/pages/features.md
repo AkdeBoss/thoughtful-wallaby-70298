@@ -37,7 +37,7 @@ sections:
         url: '#'
         style: secondary
       - label: Email
-        url: 'mailto:'
+        url: 'mailto:raja.n@karthikeyantransport.com'
         style: link
         has_icon: false
         icon: arrow-left
