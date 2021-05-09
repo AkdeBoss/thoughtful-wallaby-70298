@@ -31,7 +31,7 @@ sections:
       we also offer custom/tailored contracts, drop in a message. 
     actions:
       - label: Call
-        url: /signup
+        url: /
         style: primary
       - label: Whatsapp
         url: '#'
