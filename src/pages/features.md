@@ -36,7 +36,7 @@ sections:
       - label: Whatsapp
         url: '#'
         style: secondary
-      - label: lorem-ipsum
+      - label: Email
         url: '#'
         style: link
         has_icon: false
